@@ -5,9 +5,7 @@ Table of Contents
 Features
 Requirements
 Installation
-Usage
-Contributing
-License
+
 
 Features
 The application comes with the following features:
