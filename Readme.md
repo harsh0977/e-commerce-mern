@@ -4,7 +4,6 @@ This is an e-commerce web application built using the MERN (MongoDB, Express.js,
 ## Table of Contents
 - Features
 - Requirements
-- Installation
 
 ## Features
 The application comes with the following features:
